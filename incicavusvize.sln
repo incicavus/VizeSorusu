@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "incicavusvize", "incicavusvize\incicavusvize.csproj", "{73D94BAA-9168-431B-A0F3-8848DDAB9CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D94BAA-9168-431B-A0F3-8848DDAB9CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D94BAA-9168-431B-A0F3-8848DDAB9CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D94BAA-9168-431B-A0F3-8848DDAB9CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D94BAA-9168-431B-A0F3-8848DDAB9CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
